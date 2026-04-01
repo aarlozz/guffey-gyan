@@ -1,0 +1,31 @@
+sn,question,optionA,optionB,optionC,optionD,answer
+1,What is data?,Processed information,Raw unprocessed facts and figures,A collection of tables,A type of software,B
+2,Which of the following best describes information?,Raw facts,Processed data that is meaningful,A database table,A file system,B
+3,A database is:,A single file storing programs,An organized collection of related data,A type of operating system,A hardware device,B
+4,DBMS stands for:,Data Backup Management System,Digital Base Management Software,Database Management System,Data Business Management System,C
+5,Which of the following is an example of a DBMS?,Microsoft Word,MySQL,Adobe Photoshop,VLC Media Player,B
+6,The smallest unit of data stored in a database is:,Record,Table,Field,File,C
+7,A row in a database table is called a:,Field,Attribute,Record,Column,C
+8,A column in a database table is called a:,Record,Tuple,Row,Field/Attribute,D
+9,Which key uniquely identifies each record in a table?,Alternate Key,Foreign Key,Primary Key,Composite Key,C
+10,All keys that can uniquely identify a record are collectively called:,Primary Keys,Candidate Keys,Foreign Keys,Super Keys,B
+11,A candidate key that is not selected as the primary key is called:,Foreign Key,Super Key,Alternate Key,Composite Key,C
+12,A primary key must be:,Numeric only,Unique and not null,Repeated in every record,A combination of two fields,B
+13,In a student table with fields (StudentID, Email, Phone, Name), how many candidate keys are there?,1,2,3,4,C
+14,Which of the following is NOT a characteristic of a primary key?,Unique,Not null,Can be duplicated,Identifies each record,C
+15,Data redundancy means:,Data is secure,Same data is stored in multiple places unnecessarily,Data is well organized,Data is encrypted,B
+16,Which of the following is an advantage of DBMS over file system?,More data redundancy,Less data security,Reduced data redundancy,No multi-user access,C
+17,Data integrity in DBMS means:,Data is hidden from users,Data is accurate and consistent,Data is duplicated,Data is compressed,B
+18,Which of the following allows multiple users to access the database simultaneously?,File System,DBMS,Notepad,Spreadsheet,B
+19,A database system consists of:,Only hardware,Only software,Hardware software data users and procedures,Only data and users,C
+20,Which of the following is a real-life example of a database?,A calculator,A school's student record system,A music player,A paint application,B
+21,An object in a database context refers to:,A hardware component,A real-world entity represented in the database,A software bug,A type of query,B
+22,Which is NOT a function of DBMS?,Data storage,Data retrieval,Video editing,Data security,C
+23,The person responsible for managing a database is called:,Programmer,System Analyst,Database Administrator DBA,Network Engineer,C
+24,Physical data independence means:,Data can be moved without affecting applications,Users cannot access data,Data is physically secured,Applications are independent of each other,A
+25,Which of the following is a file-based system disadvantage?,Easy data sharing,Data isolation and inconsistency,Strong data security,Automatic backup,B
+26,A table in a relational database is also called:,Schema,Relation,Object,Module,B
+27,Which of the following best describes a database schema?,The actual data stored,The structure or design of the database,A backup of the database,A type of query,B
+28,Which type of key can have NULL values?,Primary Key,Candidate Key,Alternate Key,Foreign Key,D
+29,Data independence in DBMS means:,Data is always available,Changes in data structure do not affect applications,Data is independent of users,All users have equal access,B
+30,Which of the following is NOT an example of a DBMS?,Oracle,MySQL,MS Access,MS Paint,D
