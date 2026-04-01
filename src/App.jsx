@@ -137,7 +137,7 @@ function NicknameScreen({ onStart }) {
         <input
           style={{ ...ns.input, ...(err ? ns.inputErr : {}) }}
           type="text"
-          placeholder="e.g. Sita, Ram, Bikash…"
+          placeholder="Enter your name"
           value={nick}
           maxLength={30}
           onChange={(e) => {
