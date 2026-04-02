@@ -1,31 +1,31 @@
 sn,question,optionA,optionB,optionC,optionD,answer
-1,What is data?,Processed information,Raw unprocessed facts and figures,A collection of tables,A type of software,B
-2,Which of the following best describes information?,Raw facts,Processed data that is meaningful,A database table,A file system,B
-3,A database is:,A single file storing programs,An organized collection of related data,A type of operating system,A hardware device,B
-4,DBMS stands for:,Data Backup Management System,Digital Base Management Software,Database Management System,Data Business Management System,C
-5,Which of the following is an example of a DBMS?,Microsoft Word,MySQL,Adobe Photoshop,VLC Media Player,B
-6,The smallest unit of data stored in a database is:,Record,Table,Field,File,C
-7,A row in a database table is called a:,Field,Attribute,Record,Column,C
-8,A column in a database table is called a:,Record,Tuple,Row,Field/Attribute,D
-9,Which key uniquely identifies each record in a table?,Alternate Key,Foreign Key,Primary Key,Composite Key,C
-10,All keys that can uniquely identify a record are collectively called:,Primary Keys,Candidate Keys,Foreign Keys,Super Keys,B
-11,A candidate key that is not selected as the primary key is called:,Foreign Key,Super Key,Alternate Key,Composite Key,C
-12,A primary key must be:,Numeric only,Unique and not null,Repeated in every record,A combination of two fields,B
-13,In a student table with fields (StudentID, Email, Phone, Name), how many candidate keys are there?,1,2,3,4,C
-14,Which of the following is NOT a characteristic of a primary key?,Unique,Not null,Can be duplicated,Identifies each record,C
-15,Data redundancy means:,Data is secure,Same data is stored in multiple places unnecessarily,Data is well organized,Data is encrypted,B
-16,Which of the following is an advantage of DBMS over file system?,More data redundancy,Less data security,Reduced data redundancy,No multi-user access,C
-17,Data integrity in DBMS means:,Data is hidden from users,Data is accurate and consistent,Data is duplicated,Data is compressed,B
-18,Which of the following allows multiple users to access the database simultaneously?,File System,DBMS,Notepad,Spreadsheet,B
-19,A database system consists of:,Only hardware,Only software,Hardware software data users and procedures,Only data and users,C
-20,Which of the following is a real-life example of a database?,A calculator,A school's student record system,A music player,A paint application,B
-21,An object in a database context refers to:,A hardware component,A real-world entity represented in the database,A software bug,A type of query,B
-22,Which is NOT a function of DBMS?,Data storage,Data retrieval,Video editing,Data security,C
-23,The person responsible for managing a database is called:,Programmer,System Analyst,Database Administrator DBA,Network Engineer,C
-24,Physical data independence means:,Data can be moved without affecting applications,Users cannot access data,Data is physically secured,Applications are independent of each other,A
-25,Which of the following is a file-based system disadvantage?,Easy data sharing,Data isolation and inconsistency,Strong data security,Automatic backup,B
-26,A table in a relational database is also called:,Schema,Relation,Object,Module,B
-27,Which of the following best describes a database schema?,The actual data stored,The structure or design of the database,A backup of the database,A type of query,B
-28,Which type of key can have NULL values?,Primary Key,Candidate Key,Alternate Key,Foreign Key,D
-29,Data independence in DBMS means:,Data is always available,Changes in data structure do not affect applications,Data is independent of users,All users have equal access,B
-30,Which of the following is NOT an example of a DBMS?,Oracle,MySQL,MS Access,MS Paint,D
+1,A relation is in BCNF if for every functional dependency X → Y:,X is a candidate key,Y is a primary key,X is a foreign key,Y is a candidate key,A
+2,Which of the following is TRUE about a superkey?,It must be minimal,It always contains only one attribute,It uniquely identifies a tuple but may not be minimal,It is always the primary key,C
+3,A functional dependency X → Y is trivial if:,X and Y are unrelated,Y is a subset of X,X is a subset of Y,X and Y are both primary keys,B
+4,Which of the following anomalies does normalization help eliminate?,Syntax anomaly,Insertion, deletion, and update anomalies,Hardware anomalies,Network anomalies,B
+5,In a student table: StudentID → Name, StudentID → CourseID, CourseID → CourseName. CourseName is dependent on StudentID through CourseID. This is an example of:,Partial dependency,Full dependency,Transitive dependency,Multivalued dependency,C
+6,If a table has only a single-column primary key, it is automatically in:,1NF only,2NF (assuming it's in 1NF),3NF,BCNF,B
+7,Which of the following is the correct hierarchy of keys from broadest to narrowest?,Candidate Key → Super Key → Primary Key,Super Key → Candidate Key → Primary Key,Primary Key → Candidate Key → Super Key,Foreign Key → Primary Key → Candidate Key,B
+8,A relation R(A, B, C, D) has functional dependencies: A→B, B→C, C→D. What is the candidate key?,B,C,A,D,C
+9,What is a lossless join decomposition?,Splitting a table without losing any data or introducing spurious tuples,Losing some records during decomposition,Joining two unrelated tables,A type of normalization error,A
+10,Which of the following is NOT a property of a relation (table) in relational model?,Each cell contains exactly one value,All values in a column are of the same domain,Rows can be duplicated,Order of rows does not matter,C
+11,A composite key is:,A key made up of two or more attributes to uniquely identify a record,A key that references another table,Always a foreign key,A key with NULL values,A
+12,The concept of data abstraction in DBMS includes how many levels?,2,3,4,5,B
+13,The three levels of data abstraction in DBMS are:,Physical, Logical, View,Internal, External, Conceptual,Both A and B describe the same levels,Input, Process, Output,C
+14,Which level of data abstraction describes WHAT data is stored?,Physical level,View level,Conceptual level,External level,C
+15,A database transaction must follow ACID properties. ACID stands for:,Atomicity, Consistency, Isolation, Durability,Accuracy, Consistency, Integration, Durability,Atomicity, Correctness, Isolation, Distribution,Accuracy, Concurrency, Isolation, Data,A
+16,Atomicity in a transaction means:,Transactions are small,Either all operations complete or none do,Data is accurate,Multiple users can access simultaneously,B
+17,Which of the following is an example of a metadata?,Student names stored in a table,The structure/schema of the database (data about data),The backup of the database,The password of the database,B
+18,In ER diagram, a diamond shape represents:,Entity,Attribute,Relationship,Primary key,C
+19,In ER diagram, a rectangle represents:,Relationship,Attribute,Entity,Key,C
+20,A weak entity in ER diagram:,Has its own primary key,Cannot exist without depending on another entity,Has more attributes than a strong entity,Is represented by a diamond,B
+21,The degree of a relation refers to:,Number of rows,Number of columns (attributes),Number of primary keys,Number of foreign keys,B
+22,The cardinality of a relation refers to:,Number of columns,Number of primary keys,Number of rows (tuples),Number of foreign keys,C
+23,Which of the following JOIN returns all records from both tables regardless of match?,INNER JOIN,LEFT JOIN,RIGHT JOIN,FULL OUTER JOIN,D
+24,A view in SQL is:,A permanent physical table,A virtual table based on a SELECT query,A backup of a table,A type of index,B
+25,Which of the following is a DDL statement used to modify an existing table structure?,UPDATE,MODIFY,ALTER,CHANGE,C
+26,Referential integrity means:,Data is accurate,A foreign key must reference an existing primary key value,All keys are indexed,Tables are normalized,B
+27,Which SQL command is used to grant privileges to a user?,ALLOW,PERMIT,GRANT,AUTHORIZE,C
+28,The SQL command to remove privileges from a user is:,REMOVE,DELETE,REVOKE,CANCEL,C
+29,An index in a database is used to:,Normalize the database,Speed up data retrieval,Backup data,Encrypt data,B
+30,Which of the following best describes a data warehouse?,A small operational database,A large repository of historical data used for analysis and reporting,A backup database,A type of DBMS,B
