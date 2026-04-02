@@ -1,0 +1,31 @@
+sn,question,optionA,optionB,optionC,optionD,answer
+1,DDL stands for:,Data Display Language,Data Definition Language,Digital Definition Language,Data Deletion Language,B
+2,Which of the following is a DDL command?,INSERT,SELECT,CREATE,UPDATE,C
+3,Which command is used to delete an entire table structure?,DELETE,REMOVE,DROP,TRUNCATE,C
+4,ALTER is a:,DML command,DDL command,DCL command,TCL command,B
+5,DML stands for:,Data Management Language,Data Markup Language,Data Manipulation Language,Digital Manipulation Language,C
+6,Which command retrieves data from a table?,INSERT,UPDATE,SELECT,CREATE,C
+7,INSERT INTO is a:,DDL command,DML command,DCL command,TCL command,B
+8,Which database model organizes data in a tree structure?,Relational Model,Network Model,Hierarchical Model,Object Model,C
+9,In the hierarchical model, a child can have:,Multiple parents,Only one parent,No parent,Two parents maximum,B
+10,Which model allows a child record to have more than one parent?,Hierarchical Model,Relational Model,Network Model,Flat Model,C
+11,The relational database model organizes data in:,Trees,Graphs,Tables (rows and columns),Linked lists,C
+12,Which database model is most widely used today?,Hierarchical,Network,Relational,Object,C
+13,SQL is primarily used with which database model?,Hierarchical,Network,Object-Oriented,Relational,D
+14,Normalization is the process of:,Adding more tables,Organizing data to reduce redundancy and dependency,Encrypting data,Backing up data,B
+15,A table is in 1NF if:,There is no partial dependency,All column values are atomic (single-valued),There is no transitive dependency,It has a composite key,B
+16,Which normal form eliminates partial dependency?,1NF,2NF,3NF,BCNF,B
+17,Which normal form eliminates transitive dependency?,1NF,2NF,3NF,4NF,C
+18,Partial dependency occurs when:,A non-key attribute depends on part of a composite primary key,A key attribute depends on another key,All attributes depend on the primary key,There are no dependencies,A
+19,Transitive dependency means:,A non-key attribute depends on another non-key attribute,A key depends on a non-key attribute,All attributes are independent,Two tables are joined,A
+20,For a table to be in 2NF, it must first be in:,3NF,BCNF,1NF,4NF,C
+21,Which command modifies existing data in a table?,MODIFY,CHANGE,UPDATE,ALTER,C
+22,The DELETE command in DML:,Drops the entire table,Removes specific records from a table,Changes the table structure,Creates a new table,B
+23,Which of the following is NOT a property of 1NF?,Each cell contains a single value,Each row is unique,No partial dependencies,No repeating groups,C
+24,In the network model, data is organized as:,A tree,A graph (records and sets),Tables,A flat file,B
+25,Which normal form is considered sufficient for most practical databases?,1NF,2NF,3NF,5NF,C
+26,The CREATE TABLE command belongs to:,DML,DCL,DDL,TCL,C
+27,Which of the following removes all rows from a table but keeps the structure?,DROP,DELETE,TRUNCATE,REMOVE,C
+28,In relational model, a relationship between tables is established using:,Primary key only,Foreign key,Alternate key,Candidate key,B
+29,A multivalued attribute in a table violates:,2NF,3NF,1NF,BCNF,C
+30,The hierarchical model is best suited for:,Complex many-to-many relationships,Simple one-to-many parent-child relationships,Flat file storage,Object-oriented systems,B
