@@ -1,0 +1,31 @@
+sn,question,optionA,optionB,optionC,optionD,answer
+1,In a centralized database, all data is stored:,On each user's machine,At a single central location,Across multiple servers,In the cloud only,B
+2,Which is an advantage of a distributed database?,Single point of failure,High installation cost,Improved reliability and fault tolerance,Difficult data management,C
+3,A disadvantage of centralized database is:,Data consistency,Easy management,Single point of failure,Low cost,C
+4,Data fragmentation in distributed databases means:,Data is encrypted,Data is divided and stored at different locations,Data is duplicated at one location,Data is compressed,B
+5,Which of the following is a database security threat?,Normalization,SQL Injection,Indexing,Backup,B
+6,Authentication in database security means:,Encrypting data,Verifying the identity of a user,Granting access rights,Taking a backup,B
+7,Authorization in database security means:,Verifying user identity,Encrypting data,Granting or restricting access rights to users,Compressing data,C
+8,The process of converting data into an unreadable format is called:,Authentication,Backup,Encryption,Normalization,C
+9,Which security measure creates a copy of data to prevent loss?,Encryption,Authentication,Backup,Authorization,C
+10,A firewall in database security is used to:,Speed up data retrieval,Block unauthorized network access,Normalize data,Create backups,B
+11,Communication is defined as:,Storing data in a database,The process of transmitting information from one place to another,Programming a computer,Managing a network device,B
+12,In the communication block diagram, the channel is:,The sender,The medium through which data travels,The receiver,The encoder,B
+13,Which component converts a message into a transmittable signal?,Decoder,Receiver,Encoder,Channel,C
+14,Which component converts the received signal back to the original message?,Encoder,Decoder,Sender,Channel,B
+15,Noise in communication refers to:,Loud audio output,Any unwanted signal that distorts the transmitted message,High data speed,Network congestion,B
+16,A protocol in data communication is:,A physical cable,A set of rules governing data transmission,A type of database,A network device,B
+17,The elements of data communication include all EXCEPT:,Sender,Medium,Protocol,Compiler,D
+18,Which of the following is NOT a component of the communication block diagram?,Sender,Encoder,Router,Receiver,C
+19,In data communication, the message can be:,Text only,Audio only,Text audio video or any digital data,Numbers only,C
+20,Which of the following is an example of a communication medium?,CPU,RAM,Fiber optic cable,Hard disk,C
+21,Which is a disadvantage of distributed database?,Fault tolerance,Local autonomy,Complex management and security,Faster local queries,C
+22,Data replication in distributed database means:,Deleting duplicate data,Storing copies of data at multiple locations,Moving data to one location,Encrypting data at all nodes,B
+23,SQL Injection is an attack where:,Malicious SQL code is inserted into a query to manipulate the database,Data is physically stolen,Network cables are cut,Passwords are guessed,A
+24,Which of the following best ensures database availability after a disaster?,Normalization,Indexing,Regular backup and recovery plan,Encryption only,C
+25,The receiver in a communication system is responsible for:,Sending the message,Encoding the message,Receiving and decoding the transmitted signal,Adding noise to the signal,C
+26,Which of the following is an internal database security threat?,Hacking from outside,Natural disaster,Unauthorized access by an employee,Power failure,C
+27,Bandwidth in communication refers to:,The length of the cable,The maximum data transfer rate of a channel,The number of users connected,The size of the database,B
+28,A View in database security is used to:,Show all data to all users,Restrict users to see only specific data,Delete records automatically,Backup the database,B
+29,Which component of the communication model is the origin of a message?,Receiver,Channel,Sender or Source,Decoder,C
+30,End-to-end encryption means:,Only the sender encrypts the data,Data is encrypted from sender to receiver so only they can read it,The database is fully encrypted,Only the server encrypts data,B
