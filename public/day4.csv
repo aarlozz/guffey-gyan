@@ -1,0 +1,31 @@
+sn,question,optionA,optionB,optionC,optionD,answer
+1,In simplex transmission data flows:,In both directions simultaneously,In one direction only,In alternating directions,In multiple paths,B
+2,A television broadcast is an example of:,Full duplex,Half duplex,Simplex,Multiplex,C
+3,In half duplex communication is:,One direction only,Both directions simultaneously,Both directions but not at the same time,No communication,C
+4,A walkie talkie uses which mode of transmission?,Simplex,Full duplex,Half duplex,Multiplexed,C
+5,Full duplex allows:,One way communication,Alternating two way communication,Simultaneous two way communication,No communication,C
+6,A telephone call is an example of:,Simplex,Half duplex,Full duplex,Quarter duplex,C
+7,LAN stands for:,Large Area Network,Local Area Network,Linked Area Network,Light Access Network,B
+8,WAN covers:,A single building,A campus,A city,A large geographical area like a country or continent,D
+9,The internet is the best example of:,LAN,MAN,WAN,PAN,C
+10,MAN stands for:,Main Area Network,Metropolitan Area Network,Managed Access Network,Multiple Area Network,B
+11,Which guided medium is most immune to electromagnetic interference?,Twisted pair cable,Coaxial cable,Fiber optic cable,Power line,C
+12,Twisted pair cable is most commonly used in:,Satellite communication,Telephone lines and LANs,Deep sea communication,Wireless networks,B
+13,Coaxial cable is commonly used in:,Telephone networks,Fiber networks,Cable TV and older Ethernet networks,Satellite links,C
+14,Fiber optic cable transmits data using:,Electrical signals,Radio waves,Light pulses,Magnetic fields,C
+15,Which transmission medium has the highest bandwidth?,Twisted pair,Coaxial cable,Fiber optic cable,Radio waves,C
+16,Unguided media transmits data through:,Physical cables,Air or wireless signals,Underground cables,Light in glass,B
+17,Microwave communication requires:,Line of sight between stations,Underwater cables,Fiber optic relays,Twisted pair cables,A
+18,Which unguided medium is used for satellite communication?,Infrared,Radio waves,Microwave,Both B and C,D
+19,Infrared communication is used in:,Long distance satellite links,TV remote controls and short range devices,Submarine cables,Telephone exchanges,B
+20,Which of the following is a guided transmission medium?,Radio waves,Microwave,Infrared,Coaxial cable,D
+21,The main disadvantage of twisted pair cable is:,High cost,Susceptible to electromagnetic interference,Cannot carry voice signals,Requires line of sight,B
+22,A school computer lab network is an example of:,WAN,MAN,LAN,PAN,C
+23,Fiber optic cable is made of:,Copper wire,Aluminum,Thin glass or plastic fibers,Steel wire,C
+24,Which medium is used in cellular networks?,Twisted pair,Coaxial cable,Radio waves,Fiber optic,C
+25,Which of the following is NOT an unguided medium?,Radio wave,Microwave,Infrared,Twisted pair,D
+26,The bandwidth of a network refers to:,The length of the cable,The number of computers connected,The maximum data transfer rate,The color of the cable,C
+27,STP stands for in networking:,Standard Transmission Protocol,Shielded Twisted Pair,Serial Transfer Point,Signal Transfer Protocol,B
+28,UTP stands for:,Universal Transfer Protocol,Unshielded Twisted Pair,Unified Transmission Path,Upper Transfer Point,B
+29,Which transmission mode is used by a keyboard sending data to a computer?,Full duplex,Half duplex,Simplex,Multiplex,C
+30,The main advantage of fiber optic over copper cable is:,Lower cost,Easier to install,Higher speed and no electromagnetic interference,Flexible and bendable,C
