@@ -1,0 +1,31 @@
+sn,question,optionA,optionB,optionC,optionD,answer
+1,NIC stands for:,Network Internet Card,Network Interface Card,Node Interface Controller,Network Integration Component,B
+2,A modem is used to:,Connect two LANs,Convert digital signals to analog and vice versa,Amplify signals only,Assign IP addresses,B
+3,A router is used to:,Connect devices within a LAN only,Convert signals from digital to analog,Route data packets between different networks,Provide wireless signals only,C
+4,A switch operates at which OSI layer?,Physical layer,Network layer,Data link layer,Transport layer,C
+5,Which device connects computers within the same network and forwards data only to the intended device?,Router,Modem,Switch,Repeater,C
+6,In bus topology all devices are connected to:,A central hub,Each other in a ring,A single common backbone cable,A central switch,C
+7,What happens when the main cable fails in bus topology?,Only one computer fails,The entire network goes down,Nothing happens,Speed increases,B
+8,In ring topology data travels:,In both directions simultaneously,In a circular path in one direction,Through a central hub,Randomly,B
+9,In star topology all devices are connected to:,Each other directly,A single backbone cable,A central hub or switch,A ring,C
+10,Which topology is easiest to add or remove a device from?,Bus,Ring,Star,Mesh,C
+11,An IP address is used to:,Identify the physical hardware,Uniquely identify a device on a network,Measure network speed,Encrypt data,B
+12,A MAC address is:,A logical address assigned by software,A physical hardware address burned into the NIC,The same as an IP address,Assigned by a router,B
+13,A subnet mask is used to:,Hide the IP address,Divide a network into subnetworks,Assign MAC addresses,Encrypt network traffic,B
+14,The default gateway is:,A type of cable,A DNS address,The device that forwards traffic from local network to other networks,A MAC address format,C
+15,The internet is:,A private network within an organization,A global public network of networks,A network between two organizations,A local area network,B
+16,An Intranet is:,A global public network,A private network within an organization using internet technologies,A network connecting two companies,A wireless network,B
+17,Extranet is:,A public internet,A private intranet,A controlled private network accessible to specific external users,A satellite network,C
+18,Jitter in network communication refers to:,Permanent signal loss,Variation in packet arrival times,High bandwidth usage,Data duplication,B
+19,Echo in transmission is caused by:,Signal reflection back to the sender,Data duplication,High noise level,Low bandwidth,A
+20,Crosstalk refers to:,Cross network communication,Unwanted signal interference between adjacent cables,Encrypted communication,Data compression,B
+21,In peer to peer network:,All computers act as both client and server,There is a dedicated server,Only one computer can share files,All data is stored centrally,A
+22,Which network architecture is more secure and scalable?,Peer to peer,Bus topology,Client server,Ring topology,C
+23,Packet Tracer is a:,Network virus,Network simulation tool by Cisco,Database management tool,Programming language,B
+24,Remote login allows:,Printing documents remotely,Accessing and controlling a computer from a different location,Sending emails,Playing games online,B
+25,Which topology requires the most cabling?,Bus,Ring,Star,All require equal cabling,C
+26,Distortion in data transmission means:,Signal is lost completely,Signal shape is altered during transmission,Data is encrypted,Network is congested,B
+27,An IPv4 address is written as:,6 groups of hexadecimal numbers,4 groups of decimal numbers separated by dots,8 groups of binary numbers,A single 10 digit number,B
+28,Which of the following is a private IP address range?,200.168.1.1,192.168.1.1,172.300.1.1,8.8.8.8,B
+29,In ring topology failure of one node:,Does not affect the network,Can affect the entire network,Only affects adjacent nodes,Increases network speed,B
+30,Which network device operates at the physical layer only?,Router,Switch,Repeater or Hub,Modem,C
