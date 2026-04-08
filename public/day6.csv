@@ -1,0 +1,31 @@
+sn,question,optionA,optionB,optionC,optionD,answer
+1,OSI stands for:,Open Software Interface,Open Systems Interconnection,Operating System Integration,Open Signal Interface,B
+2,How many layers are in the OSI model?,5,6,7,8,C
+3,The lowest layer of the OSI model is:,Data Link,Network,Transport,Physical,D
+4,The highest layer of the OSI model is:,Presentation,Session,Application,Transport,C
+5,Which OSI layer handles routing of packets?,Physical,Data Link,Network,Transport,C
+6,Which layer provides end to end communication and error recovery?,Network,Transport,Session,Data Link,B
+7,Which layer handles encryption and data formatting?,Application,Session,Presentation,Transport,C
+8,The Data Link layer is responsible for:,Routing between networks,Physical transmission of bits,Node to node delivery and error detection,Session management,C
+9,Which layer manages sessions between applications?,Transport,Presentation,Session,Application,C
+10,HTTP and FTP operate at which OSI layer?,Transport,Network,Session,Application,D
+11,An IPv4 address has how many bits?,16,32,64,128,B
+12,Class A IP addresses support how many networks?,2,128,126,16000,C
+13,Which IP class is used for large networks?,Class C,Class B,Class A,Class D,C
+14,Which IP class is most commonly used for small networks?,Class A,Class B,Class C,Class D,C
+15,JavaScript is a:,Server side scripting language,Client side scripting language,Markup language,Database language,B
+16,PHP runs on:,The browser,The client machine,The server,The database,C
+17,A dynamic website:,Has fixed content,Uses only HTML,Changes content based on user interaction or database,Cannot use databases,C
+18,Which HTML tag embeds JavaScript in a webpage?,<js>,<javascript>,<script>,<code>,C
+19,External JavaScript is linked using:,<script src="file.js">,<link href="file.js">,<js src="file.js">,<import src="file.js">,A
+20,Which of the following is a client side scripting language?,PHP,Python,JavaScript,Ruby,C
+21,The memory trick for OSI layers top to bottom is:,All People Seem To Need Data Processing,Please Do Not Throw Sausage Pizza Away,Both A and B depending on direction,Neither,C
+22,TCP IP model has how many layers?,7,5,4,3,C
+23,Which OSI layer converts data into bits?,Data Link,Network,Physical,Transport,C
+24,A web browser operates at which OSI layer?,Physical,Network,Transport,Application,D
+25,Inline JavaScript is written:,In a separate js file,In the head section only,Directly within an HTML elements attribute,In the CSS file,C
+26,Which of the following is NOT a server side scripting language?,PHP,Python,JavaScript,ASP.NET,C
+27,IPv6 uses how many bits?,32,64,128,256,C
+28,Which layer of OSI provides services directly to the user application?,Session,Presentation,Application,Transport,C
+29,The OSI model was developed by:,Microsoft,ISO International Organization for Standardization,Google,Cisco,B
+30,HTML is a:,Programming language,Scripting language,Markup language,Database language,C
