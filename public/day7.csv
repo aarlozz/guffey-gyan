@@ -1,0 +1,31 @@
+sn,question,optionA,optionB,optionC,optionD,answer
+1,Which keyword is used to declare a variable that cannot be reassigned?,var,let,const,static,C
+2,What is the correct syntax to display output in the browser console?,print("Hello"),echo("Hello"),console.log("Hello"),document.write("Hello"),C
+3,What does typeof null return in JavaScript?,null,undefined,object,string,C
+4,Which of these is NOT a JavaScript data type?,String,Boolean,Integer,Undefined,C
+5,What will console.log(5 + "3") output?,8,53,Error,15,B
+6,What is the result of 10 % 4?,2,2.5,4,0,A
+7,Which operator checks both value AND type?,==,=,===,!=,C
+8,Which of the following correctly declares a function?,def myFunc() {},function myFunc() {},func myFunc() {},void myFunc() {},B
+9,What does NaN mean?,Not a Null,Not a Number,Negative and Normal,New and Null,B
+10,Which loop is guaranteed to execute at least once?,for,while,do while,foreach,C
+11,What is the correct syntax for an if else statement?,if (condition) {} else {},if condition {} else {},if [condition] {} else {},if {condition} else {},A
+12,Which keyword exits a loop immediately?,exit,stop,break,return,C
+13,Which keyword skips the current iteration of a loop?,skip,break,continue,pass,C
+14,What does let x = 5; x++; make x equal to?,4,5,6,10,C
+15,A JavaScript function that has no name is called:,Static function,Anonymous function,Void function,Null function,B
+16,Which of the following is the correct way to write a switch statement?,switch {x} { case 1: break; },switch (x) { case 1: break; },switch [x] { case 1: break; },switch x { case 1: break; },B
+17,What is the scope of a variable declared with var?,Block scope,Function scope,Global scope only,No scope,B
+18,What is the scope of a variable declared with let?,Function scope,Global scope,Block scope,No scope,C
+19,Which of these is a logical AND operator in JavaScript?,&,and,&&,||,C
+20,Which of these is a logical OR operator?,||,or,|,&&,A
+21,A JavaScript string can be enclosed in:,Single quotes only,Double quotes only,Both single and double quotes,Curly braces,C
+22,What does console.log(typeof true) output?,string,number,boolean,object,C
+23,Which of the following is the correct for loop syntax?,for (i = 0, i < 10, i++),for i = 0 to 10,for (let i = 0; i < 10; i++),for {i = 0; i < 10; i++},C
+24,What is a return statement used for in a function?,To exit the program,To send a value back to the caller,To print output,To declare a variable,B
+25,What will console.log(Boolean(0)) output?,true,0,false,undefined,C
+26,Which of the following is falsy in JavaScript?,"false",1,[],0,D
+27,Template literals in JavaScript use:,Single quotes,Double quotes,Backticks,Curly braces,C
+28,What does ++ do when placed before a variable prefix?,Adds 2,Increments after using the value,Increments before using the value,Multiplies by 2,C
+29,Which statement is used in switch case to prevent fall through?,stop,exit,break,return,C
+30,What will console.log(2 ** 3) output?,6,9,8,23,C
