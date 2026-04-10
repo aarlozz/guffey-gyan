@@ -1,0 +1,31 @@
+sn,question,optionA,optionB,optionC,optionD,answer
+1,Which event fires when a user clicks an element?,onmouseover,onsubmit,onclick,onchange,C
+2,Which event fires when a form is submitted?,onclick,onsubmit,onload,onreset,B
+3,Which event fires when the mouse pointer moves over an element?,onclick,onkeyup,onmouseover,onsubmit,C
+4,Which JavaScript method is used to access an element by its ID?,document.getClass(),document.getElementById(),document.findById(),document.query(),B
+5,A JavaScript object is a collection of:,Functions only,Variables only,Key value pairs properties and methods,Arrays only,C
+6,Which method prevents the default form submission behavior?,event.stop(),event.cancel(),event.preventDefault(),form.block(),C
+7,jQuery is:,A server side language,A JavaScript library that simplifies DOM manipulation,A CSS framework,A database tool,B
+8,Which jQuery selector selects an element by ID?,.elementID,#elementID,*elementID,@elementID,B
+9,Which jQuery method gets or sets the value of a form field?,.text(),.html(),.val(),.get(),C
+10,Which jQuery method hides an element?,.remove(),.hide(),.invisible(),.none(),B
+11,PHP stands for currently:,Personal Home Page,Hypertext Preprocessor,Programming Hypertext Page,Public Home Processor,B
+12,PHP files have the extension:,.html,.js,.php,.py,C
+13,Which is the correct PHP opening tag?,<php>,<?php,<#php,<%php,B
+14,Which function outputs text in PHP?,print_text(),console.log(),echo,output(),C
+15,In PHP all variables start with:,@,#,$,&,C
+16,PHP runs on:,The browser,The client,The server,The database directly,C
+17,Which software is commonly used to run PHP locally?,Node.js,XAMPP,Android Studio,Eclipse,B
+18,Which of the following is a correct PHP variable name?,1name,$name,name$,@name,B
+19,Which of the following is a single line comment in PHP?,<!-- comment -->,/* comment */,// comment,** comment **,C
+20,Which event is triggered when an input value changes?,onclick,onchange,onsubmit,onload,B
+21,Form validation in JavaScript is used to:,Style the form,Submit the form automatically,Check user input before sending to the server,Connect to the database,C
+22,Which JavaScript method checks if a string is empty?,string.isEmpty(),Checking string.length === 0,string.null(),string.empty(),B
+23,Which JavaScript property returns the number of characters in a string?,.size,.count,.length,.chars,C
+24,The onload event fires when:,A button is clicked,The page finishes loading,A form is submitted,The mouse moves,B
+25,In JavaScript objects methods are:,Data values stored in the object,Functions stored as properties of the object,External files linked to the object,CSS properties,B
+26,Which of the following links the jQuery library from a CDN?,<link src="jquery.js">,<script src="jquery.min.js"></script>,<import jquery>,<php include jquery>,B
+27,What does document.getElementById("myForm").reset() do?,Submits the form,Validates the form,Clears all form fields,Hides the form,C
+28,Which of the following is NOT a PHP data type?,Integer,Float,Boolean,Character,D
+29,PHP is case sensitive for:,Function names,Keywords like echo,Variable names,Class names,C
+30,Which PHP statement is used to end script execution?,stop(),end(),exit() or die(),quit(),C
