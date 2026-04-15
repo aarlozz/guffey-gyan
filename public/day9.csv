@@ -1,0 +1,31 @@
+sn,question,optionA,optionB,optionC,optionD,answer
+1,Which PHP loop iterates over each element of an array?,for,while,foreach,do while,C
+2,Which operator concatenates strings in PHP?,+,&,.,*,C
+3,In OOP a class is:,An instance of an object,A blueprint template for creating objects,A function,A database table,B
+4,An object is:,A blueprint for classes,An instance of a class,A PHP function,A database record,B
+5,Which keyword creates a new object in PHP?,object,create,new,make,C
+6,A constructor in PHP is:,A function that destroys objects,A function called automatically when an object is created,A function that connects to a database,A function that returns values,B
+7,In PHP properties and methods of an object are accessed using:,.,::,->,#,C
+8,Which PHP function connects to a MySQL database?,db_connect(),mysql_open(),mysqli_connect(),connect_mysql(),C
+9,How many parameters does mysqli_connect typically take?,2,3,4,5,C
+10,What does mysqli_connect return on failure?,0,NULL,FALSE,-1,C
+11,Which PHP comparison operator checks if two values are equal not type?,=,===,==,!=,C
+12,Which PHP operator checks value AND type equality?,==,=,===,<>,C
+13,What does $_POST do in PHP?,Sends data to another server,Collects form data submitted via HTTP POST method,Prints output,Connects to a database,B
+14,What does $_GET collect?,Database records,Form data sent via URL query string,Server configuration,Session data,B
+15,Which PHP function finds the length of a string?,length(),strlen(),strcount(),size(),B
+16,Which PHP function converts a string to uppercase?,uppercase(),toUpper(),strtoupper(),strupper(),C
+17,A PHP array is defined using:,array() or [],{},(),<>,A
+18,Which keyword is used to define a class in PHP?,object,define,class,struct,C
+19,Which keyword refers to the current object inside a class?,self,this,$this,$self,C
+20,Static methods in a class are called using:,->,.,::,#,C
+21,Which PHP function removes whitespace from both ends of a string?,clean(),strip(),trim(),clear(),C
+22,Which PHP superglobal stores session data?,$_POST,$_SESSION,$_COOKIE,$_SERVER,B
+23,Inheritance in OOP means:,A class can hide its data,A class can acquire properties and methods of another class,An object can change its type,A function can call itself,B
+24,Which keyword is used for inheritance in PHP?,inherits,implements,extends,derives,C
+25,What is encapsulation in OOP?,Hiding internal details and exposing only necessary parts,Creating multiple objects,A function calling itself,Connecting classes together,A
+26,Which PHP function checks if a variable is set and not null?,exists(),isset(),defined(),check(),B
+27,Which PHP function checks if a variable is empty?,isnull(),isempty(),empty(),blank(),C
+28,In PHP echo and print differ because:,echo returns 1 print does not,print can take multiple arguments echo cannot,echo can take multiple arguments print always returns 1,They are identical,C
+29,Which PHP arithmetic operator gives the remainder?,/,//,%,^,C
+30,What is polymorphism in OOP?,Multiple classes with the same name,The ability of different objects to respond to the same method in different ways,Creating multiple databases,Using multiple constructors,B
