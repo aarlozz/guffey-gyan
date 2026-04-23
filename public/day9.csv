@@ -28,4 +28,4 @@ sn,question,optionA,optionB,optionC,optionD,answer
 27,Which PHP function checks if a variable is empty?,isnull(),isempty(),empty(),blank(),C
 28,In PHP echo and print differ because:,echo returns 1 print does not,print can take multiple arguments echo cannot,echo can take multiple arguments print always returns 1,They are identical,C
 29,Which PHP arithmetic operator gives the remainder?,/,//,%,^,C
-30,What is polymorphism in OOP?,Multiple classes with the same name,The ability of different objects to respond to the same method in different ways,Creating multiple databases,Using multiple constructors,B
+30,What is polymorphism in OOP?,Multiple files with the same name,The ability of different objects to respond to the same method in different ways,Creating multiple databases,Using multiple constructors,B
