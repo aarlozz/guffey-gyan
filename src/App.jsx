@@ -131,7 +131,7 @@ function NicknameScreen({ onStart }) {
         <div style={ns.divider} />
 
         <p style={ns.prompt}>
-          तपाईंको नाम के हो?{" "}
+          Write your name{" "}
           <span style={{ color: "#6ee7b7" }}>What's your name?</span>
         </p>
         <input
